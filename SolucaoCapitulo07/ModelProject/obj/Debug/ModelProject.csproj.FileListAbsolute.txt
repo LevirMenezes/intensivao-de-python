@@ -1,0 +1,5 @@
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\bin\Debug\ModelProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\bin\Debug\ModelProject.pdb
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormFornecedor.resources
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormJanelaPrincipal.resources
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormNotaEntrada.resources

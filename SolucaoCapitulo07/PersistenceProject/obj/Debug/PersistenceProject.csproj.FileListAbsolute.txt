@@ -1,0 +1,9 @@
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\bin\Debug\PersistenceProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\bin\Debug\PersistenceProject.pdb
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\bin\Debug\ModelProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\bin\Debug\ModelProject.pdb
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\obj\Debug\PersistenceProject.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\obj\Debug\PersistenceProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\obj\Debug\PersistenceProject.csproj.CopyComplete
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\obj\Debug\PersistenceProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\PersistenceProject\obj\Debug\PersistenceProject.pdb

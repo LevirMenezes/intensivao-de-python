@@ -1,0 +1,11 @@
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\bin\Debug\ControllerProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\bin\Debug\ControllerProject.pdb
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\bin\Debug\ModelProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\bin\Debug\PersistenceProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\bin\Debug\ModelProject.pdb
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\bin\Debug\PersistenceProject.pdb
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\obj\Debug\ControllerProject.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\obj\Debug\ControllerProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\obj\Debug\ControllerProject.csproj.CopyComplete
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\obj\Debug\ControllerProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ControllerProject\obj\Debug\ControllerProject.pdb
